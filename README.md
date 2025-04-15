@@ -2,7 +2,7 @@
 
 A simple React + TypeScript app that uses the GitHub GraphQL API to search for users and list their public repositories, sorted by star count.
 
-![screenshot](screenshot.png) <!-- optional -->
+![screenshot](https://github.com/reedbryan/github-graphql-search/blob/main/public/ReadmeSC.png) <!-- optional -->
 
 ## 🚀 Features
 
