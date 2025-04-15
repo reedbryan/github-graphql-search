@@ -38,6 +38,7 @@ label {
     border: none;
     border-radius: 6px;
     font-size: 16px;
+    box-sizing: border-box; /* Ensure consistent box model */
 }
 
 input,
